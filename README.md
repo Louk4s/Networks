@@ -1,5 +1,5 @@
 # Networks
-Uni's Lab: Simple yet efficient network exercises in order to understand the funtamentals in Networking. 
+Uni's Lab: Simple yet usefull network exercises in order to understand the funtamentals in Networking. 
 
 The Tool that we used is GNS3.
 The First file includes an introduction to GNS3 and few simple network topologies.
